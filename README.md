@@ -1,3 +1,6 @@
+## Screenshots
+![Screenshot](https://github.com/NitinGautam05/weatherApp/assets/133783184/cbc80ba9-7140-4be5-bc43-c9780940bc9a)
+
 # weatherApp
 weatherApp is a user-friendly and intuitive mobile application that provides real-time weather information for any location worldwide. Stay updated with accurate weather forecasts, current conditions, and essential meteorological data at your fingertips.
 
